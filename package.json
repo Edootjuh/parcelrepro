@@ -1,0 +1,12 @@
+{
+	"name": "parcelrepro",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "UNLICENCED",
+	"dependencies": {
+		"parcel-bundler": "https://github.com/parcel-bundler/parcel.git"
+	},
+	"scripts": {
+		"parcel":"parcel index.html"
+	}
+}
